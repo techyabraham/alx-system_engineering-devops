@@ -1,0 +1,1 @@
+Thefiles in this folder shows different ways to creatively redirect files. Enjoy
